@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Aadhi000/Red-Fox",
-    "repository": "https://github.com/mirshadmirshu/Red-Fox.git",
+    "repository": "https://github.com/Mkbotskvrrrrrr/Red-Fox.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
