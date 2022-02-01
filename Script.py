@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='http://t.me/Kvr_autofilterbot'>𝓒𝓲𝓷𝓮𝓶𝓪 𝓞𝓢</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗,
+𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='http://t.me/Kvr_autofilterbot'>Kvr Autofilter bot</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗,
 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓮𝓻 𝓜𝓲𝓻𝓼𝓱𝓪𝓭 𝑀𝒜𝐼𝒩𝒯𝐸𝒩𝒜𝒩𝒞𝐸 𝒜𝓂𝒶𝓁 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 ♥️
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -10,12 +10,13 @@ class script(object):
 ╔═════❰ 𝓒𝓲𝓷𝓮𝓶𝓪 𝓞𝓢 ❱══⪼𒆜
 ║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
 ║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Kvr_autofilterbot"> 𝕜𝕧𝕣 </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="http://t.me/Kvr_admin_bot"> 👮  мᎥʳⓢĤ𝔸ⓓ  ✌ </a>
+║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="http://t.me/Kvr_admin_bot"> Mirshad </a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-║┣⪼ MAINTENANCE - 𝓐𝓜𝓐𝓛
+║┣⪼ MAINTENANCE - Amal
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ║┣⪼ 𝚂𝙴𝚁𝚅𝙴𝚁 -  𝙷𝙴𝚁𝙾𝙺𝚄
+║┣⪼ Thanks - MK Bot Programmers
 ║┣⪼ 𝙱𝚄𝙸𝙻𝚃 𝚂𝚃𝙰𝚃𝚂 - v1.0.2 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
@@ -23,7 +24,7 @@ class script(object):
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/Kvr_admin_bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="http://t.me/Kvr_admin_bot"> 𝓒𝓲𝓷𝓮𝓶𝓪 𝓞𝓢 </a>"""
+<a href="http://t.me/Kvr_admin_bot"> Kvr Autofilter Bot </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
